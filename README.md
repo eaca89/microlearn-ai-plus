@@ -10,6 +10,7 @@
 | ویدیو | پوشه |
 |---|---|
 | ساخت انیمیشن با هوش مصنوعی: سه روش با Claude | [videos/2026-11-ai-animation-3-ways](videos/2026-11-ai-animation-3-ways) |
+| تحلیلگر داده از صفر: نقشهٔ راه از روی ۱۹۳ آگهی واقعی | [videos/2026-11-data-analyst-roadmap](videos/2026-11-data-analyst-roadmap) |
 
 ## اسکیل‌ها
 | اسکیل | پوشه |
