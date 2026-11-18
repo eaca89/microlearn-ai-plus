@@ -4,7 +4,7 @@
 یه مثال واحد (افسانهٔ ده هزار قدم) با سه ابزار ساخته می‌شه: **Remotion**، **HyperFrames** و **Three.js**، همه با Claude Code (یا Codex).
 
 - آپارات: _به‌زودی_
-- یوتیوب (Microlearn AI Plus): _به‌زودی_
+- یوتیوب (Microlearn AI Plus): https://youtu.be/IuBHrSyA_u4
 
 ## پیش‌نیازها
 - بلد باشی توی Claude Code یه پوشه باز کنی و پرامپت بدی (Codex هم کار می‌کنه)
