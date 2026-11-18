@@ -3,7 +3,7 @@
 فایل‌ها و پرامپت‌های ویدیوی «ساخت انیمیشن با هوش مصنوعی: سه روش با Claude» از میکرولرن.
 یه مثال واحد (افسانهٔ ده هزار قدم) با سه ابزار ساخته می‌شه: **Remotion**، **HyperFrames** و **Three.js**، همه با Claude Code (یا Codex).
 
-- آپارات: _به‌زودی_
+- آپارات: https://www.aparat.com/v/ycq3962
 - یوتیوب (Microlearn AI Plus): https://youtu.be/IuBHrSyA_u4
 
 ## پیش‌نیازها
