@@ -9,6 +9,7 @@
 ## ویدیوها (ساخت با هوش مصنوعی)
 | ویدیو | پوشه |
 |---|---|
+| هوش مصنوعی کد می‌نویسه؛ پس برنامه‌نویس به چه دردی می‌خوره؟ | [videos/2026-11-learn-programming-ai-era](videos/2026-11-learn-programming-ai-era) |
 | صدای خودت رو با هوش مصنوعی بساز: متن فارسی به گفتار در گوگل کولب | [videos/2026-11-persian-voice-clone](videos/2026-11-persian-voice-clone) |
 | ساخت انیمیشن با هوش مصنوعی: سه روش با Claude | [videos/2026-11-ai-animation-3-ways](videos/2026-11-ai-animation-3-ways) |
 | تحلیلگر داده از صفر: نقشهٔ راه از روی ۱۹۳ آگهی واقعی | [videos/2026-11-data-analyst-roadmap](videos/2026-11-data-analyst-roadmap) |
