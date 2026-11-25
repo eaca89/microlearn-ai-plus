@@ -9,6 +9,7 @@
 ## ویدیوها (ساخت با هوش مصنوعی)
 | ویدیو | پوشه |
 |---|---|
+| چرا Claude Code کامپیوترت رو کند می‌کنه؟ ساب‌ایجنت‌ها و یه خط راه‌حل | [videos/2026-11-claude-subagents-pc](videos/2026-11-claude-subagents-pc) |
 | انیمیشن با هوش مصنوعی رایگان؟ تستش کردم | [videos/2026-11-free-ai-animation-test](videos/2026-11-free-ai-animation-test) |
 | هوش مصنوعی کد می‌نویسه؛ پس برنامه‌نویس به چه دردی می‌خوره؟ | [videos/2026-11-learn-programming-ai-era](videos/2026-11-learn-programming-ai-era) |
 | صدای خودت رو با هوش مصنوعی بساز: متن فارسی به گفتار در گوگل کولب | [videos/2026-11-persian-voice-clone](videos/2026-11-persian-voice-clone) |
